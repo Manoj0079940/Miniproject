@@ -1,57 +1,91 @@
-## Title of the Project
-Small description about the project like one below
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
+## **Title of the Project**
 
-## About
-<!--Detailed Description about the project-->
-Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
+**Fitrack – AI Powered Finance Tracking Platform**
 
-## Features
-<!--List the features of the project as shown below-->
-- Implements advance neural network method.
-- A framework based application for deployment purpose.
-- High scalability.
-- Less time complexity.
-- A specific scope of Chatbot response model, using json data format.
+Small description about the project like one below:
+Fitrack is an intelligent financial tracking system designed to automate expense management, provide budget insights, and deliver AI‑generated monthly financial summaries. By integrating receipt scanning, real‑time analytics, and email alerts, Fitrack helps users maintain control over their finances effortlessly.
 
-## Requirements
-<!--List the requirements of the project as shown below-->
-* Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with deep learning frameworks.
-* Development Environment: Python 3.6 or later is necessary for coding the sign language detection system.
-* Deep Learning Frameworks: TensorFlow for model training, MediaPipe for hand gesture recognition.
-* Image Processing Libraries: OpenCV is essential for efficient image processing and real-time hand gesture recognition.
-* Version Control: Implementation of Git for collaborative development and effective code management.
-* IDE: Use of VSCode as the Integrated Development Environment for coding, debugging, and version control integration.
-* Additional Dependencies: Includes scikit-learn, TensorFlow (versions 2.4.1), TensorFlow GPU, OpenCV, and Mediapipe for deep learning tasks.
+---
 
-## System Architecture
-<!--Embed the system architecture diagram as shown below-->
+## **About**
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/2140e916-ba5d-4d1a-bee0-2e080a65c564" />
+Fitrack is a modern AI‑assisted personal finance management platform built to simplify and automate budgeting for students and working professionals. Traditional expense tracking requires manual entries and offers minimal insights, resulting in poor financial habits. Fitrack overcomes these challenges using an AI‑powered receipt scanner, automatic categorization, predictive analytics, and personalized monthly insight emails generated through Gemini. The platform ensures seamless tracking, visual dashboards, spending breakdowns, budget notifications, and cloud‑synced data accessibility.
+
+---
+
+## **Features**
+
+* AI‑powered receipt scanner for automated expense extraction.
+* Category‑wise expense visualization and interactive dashboards.
+* Monthly financial insight email with Gemini‑generated advice.
+* Budget alerts and overspending prediction.
+* High scalability and cloud‑based architecture using Supabase.
+* Secure login, authentication, and cloud sync.
+* Fast, lightweight architecture with low time complexity.
+* JSON‑based structured data flow for efficient API handling.
+
+---
+
+## **Requirements**
+
+* **Operating System:** 64-bit Windows 10/11 or Ubuntu.
+* **Frontend:** React + **ShadCN UI** + TailwindCSS.
+* **Backend:** Node.js (Express / Next.js API Routes) with server-side logic.
+* **Database & ORM:** **Prisma ORM** with PostgreSQL (via Supabase or any Postgres instance).
+* **Authentication:** **Clerk** for secure user auth and session management.
+* **Email / Event Automation:** **Inngest** for scheduled tasks (monthly insights mail, budget alerts).
+* **Security:** **Arcjet** for protection against abuse, rate limiting, and API security.
+* **AI / ML:** Gemini API for financial insights, sentiment analysis, and smart recommendations.
+* **Version Control:** Git & GitHub for collaborative development.
+* **IDE:** Visual Studio Code recommended.
+* **Additional Dependencies:** Prisma Client, Clerk SDK, Inngest SDK, Arcjet SDK, React libraries.
+
+---
+
+## **System Architecture**
+
+(Embed your architecture diagram here)
+
+<img width="1536" height="1024" alt="System arc" src="https://github.com/user-attachments/assets/2b30d526-c34a-4417-afaf-8125c31306dd" />
+
+---
+
+## **Output**
 
 
-## Output
+#### **Output 1 – Dashboard Overview**
 
-<!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - Dashboard Overview
+<img width="1920" height="1080" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/3c112ebc-0efd-45e4-bda7-d046f8001fef" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a2127716-e7ea-4346-be9a-04bfedd1c9ae" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f24df2bc-f74b-4620-b4f1-366d22506e0b" />
-<img width="1918" height="1077" alt="image" src="https://github.com/user-attachments/assets/46813c07-00af-4da5-a37a-550aef829df0" />
-# Output 2 – Receipt Scanner Extraction
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/139dd56a-f03f-4717-897f-8a5105cfdb7d" />
-<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/17901690-63ce-42d1-bdf8-00b16b250176" />
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/6a00762a-d146-4970-853a-374dd57007ed" />
+<img width="1920" height="1080" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/ea0dd2a8-f082-48d2-bdf8-87b0fd32bb13" />
 
-# Output 3 – Monthly Financial Insights Email
-<img width="1641" height="702" alt="image" src="https://github.com/user-attachments/assets/d4fb773d-735d-4875-9246-3ccfefef373d" />
-<img width="1637" height="704" alt="image" src="https://github.com/user-attachments/assets/baea01e3-dc50-4f71-9f6f-29135287c7de" />
-<img width="1653" height="737" alt="image" src="https://github.com/user-attachments/assets/3aae5221-066d-44ce-9dec-ed7807ff7c8c" />
+<img width="1918" height="1077" alt="image" src="https://github.com/user-attachments/assets/3a171ba0-4d87-4e67-b5ee-4707e5794c68" />
 
-Accuracy: Dynamic based on system performance and OCR correctness.
 
-## Results and Impact
+#### **Output 2 – Receipt Scanner Extraction**
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/7ce75af4-8ff3-4c12-94fc-c614b3a84dae" />
+
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/5b287fd4-f3a2-42d0-a99d-f1921e28fce7" />
+
+<img width="1919" height="1079" alt="Screenshot 2025-11-27 231009" src="https://github.com/user-attachments/assets/7c1aaa4f-8c91-4992-8cf4-971f38a3983d" />
+
+
+#### **Output 3 – Monthly Financial Insights Email**
+
+<img width="1641" height="702" alt="Screenshot 2025-11-27 231120" src="https://github.com/user-attachments/assets/fa36ddac-2fb0-4ba1-b1a8-49c4ffc4d270" />
+
+<img width="1637" height="704" alt="Screenshot 2025-11-27 231222" src="https://github.com/user-attachments/assets/07a543b7-10de-4c02-8b43-ada8dbccd764" />
+
+<img width="1653" height="737" alt="image" src="https://github.com/user-attachments/assets/7dc6b84e-2970-41b9-ab2b-352ed3351486" />
+
+
+*Accuracy: Dynamic based on system performance and OCR correctness.*
+
+---
+
+## **Results and Impact**
+
 Fitrack significantly enhances personal financial awareness by automating expense tracking and providing AI‑driven guidance. Users gain clarity over spending patterns through charts, receive timely budget alerts, and develop healthier financial habits through monthly insight reports. The platform serves as a strong foundation for future financial automation systems and contributes towards smarter, more responsible money management.
 
-
-
+---

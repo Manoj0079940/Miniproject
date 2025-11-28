@@ -36,9 +36,6 @@ Tailored Chatbot for Hostel Booking System is a project designed to integrate a 
 #### Output1 - Dashboard Overview
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a2127716-e7ea-4346-be9a-04bfedd1c9ae" />
-
-#### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f24df2bc-f74b-4620-b4f1-366d22506e0b" />
 <img width="1918" height="1077" alt="image" src="https://github.com/user-attachments/assets/46813c07-00af-4da5-a37a-550aef829df0" />
 # Output 2 – Receipt Scanner Extraction
@@ -51,7 +48,7 @@ Tailored Chatbot for Hostel Booking System is a project designed to integrate a 
 <img width="1637" height="704" alt="image" src="https://github.com/user-attachments/assets/baea01e3-dc50-4f71-9f6f-29135287c7de" />
 <img width="1653" height="737" alt="image" src="https://github.com/user-attachments/assets/3aae5221-066d-44ce-9dec-ed7807ff7c8c" />
 
-# Accuracy: Dynamic based on system performance and OCR correctness.
+Accuracy: Dynamic based on system performance and OCR correctness.
 
 ## Results and Impact
 Fitrack significantly enhances personal financial awareness by automating expense tracking and providing AI‑driven guidance. Users gain clarity over spending patterns through charts, receive timely budget alerts, and develop healthier financial habits through monthly insight reports. The platform serves as a strong foundation for future financial automation systems and contributes towards smarter, more responsible money management.

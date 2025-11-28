@@ -27,33 +27,34 @@ Tailored Chatbot for Hostel Booking System is a project designed to integrate a 
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
 
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/2140e916-ba5d-4d1a-bee0-2e080a65c564" />
 
 
 ## Output
 
 <!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - Name of the output
+#### Output1 - Dashboard Overview
 
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a2127716-e7ea-4346-be9a-04bfedd1c9ae" />
 
 #### Output2 - Name of the output
 ![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f24df2bc-f74b-4620-b4f1-366d22506e0b" />
+<img width="1918" height="1077" alt="image" src="https://github.com/user-attachments/assets/46813c07-00af-4da5-a37a-550aef829df0" />
+# Output 2 – Receipt Scanner Extraction
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/139dd56a-f03f-4717-897f-8a5105cfdb7d" />
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/17901690-63ce-42d1-bdf8-00b16b250176" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/6a00762a-d146-4970-853a-374dd57007ed" />
 
-Detection Accuracy: 96.7%
-Note: These metrics can be customized based on your actual performance evaluations.
+# Output 3 – Monthly Financial Insights Email
+<img width="1641" height="702" alt="image" src="https://github.com/user-attachments/assets/d4fb773d-735d-4875-9246-3ccfefef373d" />
+<img width="1637" height="704" alt="image" src="https://github.com/user-attachments/assets/baea01e3-dc50-4f71-9f6f-29135287c7de" />
+<img width="1653" height="737" alt="image" src="https://github.com/user-attachments/assets/3aae5221-066d-44ce-9dec-ed7807ff7c8c" />
 
+# Accuracy: Dynamic based on system performance and OCR correctness.
 
 ## Results and Impact
-<!--Give the results and impact as shown below-->
-The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
-
-This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
-
-## Articles published / References
-1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
-2. A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
-
+Fitrack significantly enhances personal financial awareness by automating expense tracking and providing AI‑driven guidance. Users gain clarity over spending patterns through charts, receive timely budget alerts, and develop healthier financial habits through monthly insight reports. The platform serves as a strong foundation for future financial automation systems and contributes towards smarter, more responsible money management.
 
 
 
